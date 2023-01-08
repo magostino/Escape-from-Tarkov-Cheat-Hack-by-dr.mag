@@ -1,4 +1,4 @@
-# Escape from Tarkov Cheat Hack by dr.mag
+# Escape from Tarkov Cheat by dr.mag
 																						
 
 # Software instructions
