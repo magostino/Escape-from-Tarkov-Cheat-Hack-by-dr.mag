@@ -17,6 +17,7 @@
 - Misc settings
 
 # Screenshots
+![screenshot](https://user-images.githubusercontent.com/78746875/211218226-52caba6c-8b4c-41c5-841c-6550286ef012.png)
 
 
 ```
